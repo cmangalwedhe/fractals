@@ -1,0 +1,7 @@
+*.txt
+*.iml
+out/production
+src/META-INF
+*.class
+.idea/
+.DS_Store
